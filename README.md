@@ -21,4 +21,4 @@ This research utilizes time series models to forecast electricity generation fro
 Datasets of renewable energy generation and electricity demand-side consumption at Hokkaido, Kyushu, and Tohoku are downloaded from https://www.fepc.or.jp/index.html.
 
 ## Contact
-If you have any questions, please don't hesitate to contact cosyoung[at]outlook.com
+If you have any questions, please don't hesitate to contact zhongrui[at]iic.hokudai.ac.jp
